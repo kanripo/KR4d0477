@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 西巖集
-#+DATE: 2020-03-31 11:35:21.785632
+#+DATE: 2020-03-31 11:35:21.942557
 #+PROPERTY: ID KR4d0477
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 20
 <pb:KR4d0477_WYG_020-1a>¶
 　　欽定四庫全書¶
@@ -118,7 +118,7 @@
 ¶
 　　維元貞元年十月某日朝列大夫松江府知府兼勸農¶
 <pb:KR4d0477_WYG_020-6b>¶
-事張某率華亭縣尹柴琳修竹鄉四十二保王&KR0110;等以¶
+事張某率華亭縣尹柴琳修竹鄉四十二保王曄等以¶
 羊一豕一投澱山湖之水與蜃食而祭之曰天地生物¶
 各有攸居先王時山澤蟲蛇惡物害吾民者必驅除之¶
 乃已松江海之口澱湖水之心蜃之涵育變化此固其¶
